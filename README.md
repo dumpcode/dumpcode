@@ -35,6 +35,6 @@ I'm an entrant Full-stack Developer & an electromechanical Engineering Technicia
 
 ### 📊 Stats
 
-![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=dumpcode&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
